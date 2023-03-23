@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-packer",
+  "version": "1.0.0",
+  "description": "A packer that will pack your node-js project in a single binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TaxMachine",
+  "license": "ISC"
+}
